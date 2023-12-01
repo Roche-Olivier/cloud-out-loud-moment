@@ -1,0 +1,20 @@
+{
+  "name": "cloud-out-loud-moment",
+  "version": "1.0.1",
+  "description": "Moment timer functions for applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "moment",
+    "dates",
+    "times"
+  ],
+  "author": "Roche OLivier",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
